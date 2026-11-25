@@ -10,7 +10,7 @@ I'm interested in engineering sciences, computational methods, and scientific re
 ## 🔬 Research Interests
 
 - Polymer Science
-- Heat and Mass Transfer
+- Heat Transfer
 - Mathematical Modeling
 - Thermal Analysis
 
