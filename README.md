@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**rezaieshahrokh2003-sys/rezaieshahrokh2003-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shahrokh Rezaie 👋
 
-Here are some ideas to get you started:
+### Engineering | Scientific Computing | Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm interested in engineering sciences, computational methods, and scientific research.
+
+## 🔬 Research Interests
+
+- Polymer Science
+- Heat and Mass Transfer
+- Mathematical Modeling
+- Thermal Analysis
+
+## 💻 Technical Interests
+
+- MATLAB
+- Numerical Methods
+- Data Analysis
+- Scientific Visualization
+
+## 🌱 Currently Learning
+
+- Git and GitHub
+- Scientific Computing
+- Computational Modeling
+
+---
+
+*Exploring engineering problems through mathematics, computation, and research.*
