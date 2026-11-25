@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/engineering-header.png" width="100%" alt="Engineering and Scientific Computing Banner">
+<img src="main/engineering-header.png" width="100%" alt="Engineering and Scientific Computing Banner">
 
 # Shahrokh Rezaie
 
